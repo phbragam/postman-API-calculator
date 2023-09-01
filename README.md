@@ -1,6 +1,6 @@
 # Postman API Calculator
 
-This is a simple API for performing basic arithmetic operations. You can use Postman to test and interact with this API. The API supports the following operations: addition, subtraction, multiplication, division, and remainder.
+This is a simple API for performing basic arithmetic operations. You can use Postman to test and interact with this API. The API supports the following operations: addition, subtraction, multiplication, division, and remainder. The API was developed using **.NET Core 6** in Visual Studio 2022.
 
 ## API Endpoint
 
@@ -18,7 +18,7 @@ To make a request to the API, you need to include the following parameters as qu
 
 ## Making Requests in Postman
 
-Follow these steps to make requests using Postman:
+Follow these steps to make requests using Postman after having the server running locally:
 
 1. **Launch Postman**: If you haven't already, download and install [Postman](https://www.postman.com/) on your computer.
 
